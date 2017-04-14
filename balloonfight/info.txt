@@ -1,0 +1,7 @@
+game_name = "Balloon Fight"
+system = "nes"
+creator = "lilbud"
+rom_config = "Balloon Fight.zip.cfg"
+overlay_config = "Balloon Fight.cfg"
+overlay_image = "balloonfight_lilbud_ovl.png"
+
