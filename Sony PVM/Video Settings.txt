@@ -1,0 +1,16 @@
+# 19 = Config, 20 = 1:1 PAR, 21 = Core Provided, 22 = Custom Viewport
+aspect_ratio_index = "22"
+
+# these two define the pixel size of the emulated screen
+# keep this in the same ratio as the original console
+# eg: GBA 240x160 * 3 = 720 x 480
+custom_viewport_width = "740"
+custom_viewport_height = "555"
+
+# the following two decide how far from the left and top the game screen is shown
+# to centre the game display use your original resolution, minus the screen size, divided by two
+# this example for 1080p screen (1920x1080)
+# (1366 - 740) / 2 = 
+custom_viewport_x = "313"
+# (768 - 480) / 2 = 
+custom_viewport_y = "144"
