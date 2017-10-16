@@ -1,0 +1,6 @@
+game_name = "Secret of Mana"
+system = "snes"
+creator = "lilbud"
+rom_config = "Secret of Mana.zip.cfg"
+overlay_config = "SoM.cfg"
+overlay_image = "SoM.png"
