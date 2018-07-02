@@ -2,7 +2,7 @@
 
 The overlays you see here are the result of about a year of searching for tools to extract the game files. Finally found the tool on an obscure gaming forum. 
 
-Now after ripping the borders and making the cfg files, of course they had to be further modified to work with Retroarch. The full screen ones didn'y need much other that a stretch of the side art. The integer ones however...
+Now after ripping the borders and making the cfg files, of course they had to be further modified to work with Retroarch. The full screen ones didn't need much other that a stretch of the side art. The integer ones however...
 
 *OH BOY*
 
