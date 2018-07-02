@@ -24,4 +24,4 @@ Integer Scale uses the following settings:
 
 Preview
 
-![preview](https://i.snag.gy/zqp8jy.jpg)
+![preview](https://i.snag.gy/HbGyxu.jpg)
